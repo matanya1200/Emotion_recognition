@@ -1,0 +1,5 @@
+1. 'I love this phone!' → חיובי (ציון: 0.6696)
+2. 'This app is terrible.' → שלילי (ציון: -0.4767)
+3. 'The service is okay.' → חיובי (ציון: 0.2263)
+4. 'Amazing experience!!' → חיובי (ציון: 0.658)
+5. 'What a disappointment...' → שלילי (ציון: -0.5106)
