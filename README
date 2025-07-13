@@ -1,0 +1,5 @@
+cd C:\Users\matan\OneDrive\Desktop\לימודים\פרויקטים מעניינים
+python fake_api.py  
+
+cd C:\Users\matan\OneDrive\Desktop\לימודים\פרויקטים מעניינים
+python sentiment_gui.py
